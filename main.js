@@ -1,6 +1,6 @@
 const beijingDate = "February 4, 2022 08: 00: 00"
 const parisDate = "July 26, 2024 02: 00: 00"
-const milanoDate = "February 6, 2020 02: 00: 00"
+const milanoDate = "February 6, 2026 02: 00: 00"
 const laDate = "July 21, 2028 11: 00: 00"
 const oly2022 = "2022 Olympic Games in Beijing, China"
 const oly2024 = "2024 Olympic Games in Paris, France"
